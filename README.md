@@ -26,7 +26,7 @@ Project Structure:
 
 Getting Started:
 
-1. Clone the repository
+1. Clone the repository https://github.com/arpitrawat0007/Expense-Manager.git
 2. Import the project into Android Studio
 3. Build and run the app on an Android device or emulator
 
