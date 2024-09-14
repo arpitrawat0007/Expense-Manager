@@ -36,8 +36,14 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 License:
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.For More Detail See the License.
 
 Let's connect!
 
 If you have any questions or need assistance, please don't hesitate to reach out. Happy coding!
+
+Contact
+
+Arpit Rawat
+arpitrawat0707@gmail.com
+Reach me at LinkedIn www.linkedin.com/in/arpitrawat0007
